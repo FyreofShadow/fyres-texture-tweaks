@@ -1,6 +1,6 @@
 # Fyre's Texture Tweaks
 
-A texturepack made by FyreofShadow for Gregtech: New Horizons, combining some old favorites from Zedtech and Modernity with some brand new textures to keep more aligned with the vanilla GT:NH feel. Proper credits WILL be added in the future for any textures that were ripped from or inspired by other packs.
+A texturepack made by FyreofShadow for Gregtech: New Horizons, combining some old favorites from Zedtech and Modernity with some brand new textures to keep more aligned with the vanilla GT:NH feel. Proper credits will always be added for any textures that were ripped from or inspired by other packs.
 
 # THIS REPO AND README ARE A WORK IN PROGRESS.
 
